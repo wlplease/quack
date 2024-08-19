@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <svg version="1.1" width="24" height="24" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
-  <rect x="11" y="11" width="2" height="1" fill="#FEFFFF"/>
-  <rect x="11" y="12" width="2" height="1" fill="#FEFFFF"/>
-  <rect x="11" y="13" width="2" height="1" fill="#FEFFFF"/>
-  <rect x="11" y="14" width="2" height="1" fill="#FEFFFF"/>
-  <rect x="11" y="15" width="2" height="1" fill="#FEFFFF"/>
-  <rect x="11" y="16" width="2" height="1" fill="#FEFFFF"/>
+  <rect x="11" y="11" width="2" height="1" fill="#FF6347"/> <!-- Tomato Red -->
+  <rect x="11" y="12" width="2" height="1" fill="#4682B4"/> <!-- Steel Blue -->
+  <rect x="11" y="13" width="2" height="1" fill="#32CD32"/> <!-- Lime Green -->
+  <rect x="11" y="14" width="2" height="1" fill="#FFD700"/> <!-- Gold -->
+  <rect x="11" y="15" width="2" height="1" fill="#8A2BE2"/> <!-- Blue Violet -->
+  <rect x="11" y="16" width="2" height="1" fill="#FF4500"/> <!-- Orange Red -->
 </svg>
